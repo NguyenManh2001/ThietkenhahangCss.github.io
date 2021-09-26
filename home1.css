@@ -1,0 +1,22 @@
+.h2 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.cuatoi {
+    background-color: whitesmoke;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font {
+    padding: 3px;
+    background-color: red;
+    color: white;
+}
+
+.table {
+    font-size: 75%;
+}

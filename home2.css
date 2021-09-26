@@ -1,0 +1,30 @@
+.h2 {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.cuatoi {
+    padding: 2%;
+}
+
+.img {
+    width: 50%;
+    margin: 3%;
+}
+
+.table {
+    font-size: 75%;
+}
+
+.id {
+    width: 15%;
+}
+
+.font {
+    background-color: red;
+    padding: 10px;
+}
+
+.cuatoi {
+    background-color: whitesmoke;
+}
